@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😎
 
 - 🔭 I’m currently working on being a better programmer.
 - 🌱 I’m currently learning computer science!

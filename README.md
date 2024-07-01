@@ -1,7 +1,7 @@
 ### Hi there 😎
 
 - 🔭 I’m currently a software engineer at Microsoft.
-- 🌱 I love working on user-facing Android applications!
+- 🌱 I love working on Android applications!
 - 👯 I’m looking to collaborate on any project that is interesting!
 - 💬 Ask me about Korean food.
 - 📫 How to reach me: yshin1999@gmail.com
